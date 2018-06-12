@@ -1,0 +1,11 @@
+{
+  "id": "nodebb-plugin-rpa",
+  "url": "https://github.com/Roger-RPA/nodebb-plugin-rpa",
+  "library": "./plugin.js",
+  "hooks": [
+  ],
+  "staticDirs": [],
+  "less": [],
+  "scripts": [],
+  "acpScripts": []
+}

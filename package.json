@@ -1,0 +1,19 @@
+{
+  "name": "nodebb-plugin-rpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roger-RPA/nodebb-plugin-rpa"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roger-RPA/nodebb-plugin-rpa/issues"
+  },
+  "homepage": "https://github.com/Roger-RPA/nodebb-plugin-rpa#readme"
+}

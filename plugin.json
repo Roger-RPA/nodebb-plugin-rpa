@@ -3,6 +3,7 @@
   "url": "https://github.com/Roger-RPA/nodebb-plugin-rpa",
   "library": "./plugin.js",
   "hooks": [
+    { "hook": "filter:admin.???", "method": ""
   ],
   "staticDirs": [],
   "less": [],

@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Roger-RPA/nodebb-plugin-rpa/issues"
   },
-  "homepage": "https://github.com/Roger-RPA/nodebb-plugin-rpa#readme"
+  "homepage": "https://github.com/Roger-RPA/nodebb-plugin-rpa#readme",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "marked": "^0.4.0",
+    "path": "^0.12.7"
+  }
 }
